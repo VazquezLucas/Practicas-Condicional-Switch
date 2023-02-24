@@ -1,0 +1,15 @@
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\bin\Debug\net6.0\Practicas Condicional Switch.exe
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\bin\Debug\net6.0\Practicas Condicional Switch.deps.json
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\bin\Debug\net6.0\Practicas Condicional Switch.runtimeconfig.json
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\bin\Debug\net6.0\Practicas Condicional Switch.dll
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\bin\Debug\net6.0\Practicas Condicional Switch.pdb
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\obj\Debug\net6.0\Practicas Condicional Switch.csproj.AssemblyReference.cache
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\obj\Debug\net6.0\Practicas Condicional Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\obj\Debug\net6.0\Practicas Condicional Switch.AssemblyInfoInputs.cache
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\obj\Debug\net6.0\Practicas Condicional Switch.AssemblyInfo.cs
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\obj\Debug\net6.0\Practicas Condicional Switch.csproj.CoreCompileInputs.cache
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\obj\Debug\net6.0\Practicas Condicional Switch.dll
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\obj\Debug\net6.0\refint\Practicas Condicional Switch.dll
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\obj\Debug\net6.0\Practicas Condicional Switch.pdb
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\obj\Debug\net6.0\Practicas Condicional Switch.genruntimeconfig.cache
+C:\Users\vazqu\source\repos\Practicas Condicional Switch\obj\Debug\net6.0\ref\Practicas Condicional Switch.dll
